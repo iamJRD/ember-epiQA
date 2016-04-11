@@ -1,8 +1,8 @@
-# Epi-QA
+# Epi-QA - Ember JavaScript
 
-#### By: Jared Beckler | Epicodus | April 1st, 2016
+#### By: Jared Beckler | Epicodus | April 2016
 
-This is a basic question and answer forum constructed using Ember.js
+This project was designed to get us more familiar with Ember.js apps. This is a basic question and answer forum.
 
 ## Prerequisites
 
